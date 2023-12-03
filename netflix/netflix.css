@@ -1,0 +1,214 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(46, 46, 46);
+}
+
+.nav{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/c906271d-7184-4eec-83c9-b6d4c1a068ec/728874a6-eeda-400a-9bcf-a935a1408a4f/IN-en-20231127-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    height: 700px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.red{
+    background-color: rgba(0, 0, 0, 0.628);
+    height: 700px;
+    width: 100%;
+}
+
+.logo{
+    height: 30px;
+    width: 100px;
+    margin-left: 170px;
+    margin-bottom: -40px;
+}
+.box1{
+    cursor: pointer;
+    display: flex;
+    justify-content: end;
+    margin-right: 200px;   
+}
+
+.box2{
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+
+}
+
+.box3{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    border: 0px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.txt1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    color: white;
+}
+
+.txt2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+
+.box4{
+    height: 50px;
+    width: 300px;
+    margin-left: 400px;
+    font-size: 18px;
+    padding-left: 30px;
+    background-color: rgba(0, 0, 0, 0.342);
+    border: 0px;
+    border: 1px solid white;
+}
+
+.box5{
+    background-color: red;
+    height: 58px;
+    width: 250px;
+    font-size: 22px;
+    position: relative;
+    top: 3px;
+    color: white;
+    border: 0px;
+
+}
+
+.second{
+    display: flex;
+    margin-top: 7px;
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
+
+.left1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.right1{
+    margin-left: 200px;
+}
+.img1{
+    height: 400px;
+    width: 500px;
+
+}
+.right2{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 90px;
+    font-size: 20px;
+}
+
+.txt3{
+    margin-top: 0px;
+}
+
+.txt4{
+    margin-top: 0px;
+}
+
+.second1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 7px;
+    height: 900px;
+    width: 100%;
+    background-color: black;
+    justify-content: center;
+
+}
+
+.txt5{
+    color: white;
+    font-size: 42px;
+   margin-left: 450px;
+   margin-bottom: -50px;
+
+}
+.box6{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 200px;
+   
+}
+
+.buttons{
+    height: 50px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+    background-color: rgba(66, 63, 63, 0.407);
+    color: white;
+    border: 0px;
+}
+
+.txt6{
+    color: white;
+    margin-left: 250px;
+    font-size: 26px;
+
+}
+
+.btns{
+    display: flex;
+    background-color: transparent;
+    color: white;
+    border: 0px;  background-color: transparent;
+    color: white;
+    border: 0px;
+}
+
+.second4{
+    display: flex;
+    margin-top: 7px;
+    height: 300px;
+    gap: 80px;
+    width: 100%;
+    background-color: black;
+
+}
+
+.box7{
+    margin-top: 230px;
+    margin-left: -720px;
+}
+
+.btns{font-size: 15px;
+    position: relative;
+    top: 100px;
+    left: 250px;
+
+}
+.txt7{
+    color: white;
+}
